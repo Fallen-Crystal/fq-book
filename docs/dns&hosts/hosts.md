@@ -9,19 +9,19 @@
 
 <!-- ![](http://p3.cdn.img9.top/ipfs/QmeUhmaHpUSiQP9hgA4Y5gEsoufqF5u3o9zVrGftWJQx4T?3.png) -->
 
-![](https://i.postimg.cc/SQdRXsVC/2018-04-30-090747.png)
+![](../_offline/vendor/i.postimg.cc/SQdRXsVC/2018-04-30-090747.png)
 
 添加维基的ip地址，`#`是注释
 
 <!-- ![](https://ipfs.io/ipfs/QmfBgmHvkYXor6gJtvpz93psQAvTm4zsFB2qMK2NtNszYR?2.png) -->
 
-![](https://i.postimg.cc/prcPsm1S/2018-04-30-091155.png)
+![](../_offline/vendor/i.postimg.cc/prcPsm1S/2018-04-30-091155.png)
 
 测试
 
 <!-- ![](https://ipfs.io/ipfs/QmT5DKfhyTteW4NWPQfb657YEz2jeuoESmmpZgLXJ3Dkd3?4.png) -->
 
-![](https://i.postimg.cc/sg7RhHyq/2018-04-30-092057.png)
+![](../_offline/vendor/i.postimg.cc/sg7RhHyq/2018-04-30-092057.png)
 
 
 

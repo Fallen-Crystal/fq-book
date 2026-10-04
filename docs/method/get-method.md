@@ -8,14 +8,14 @@ ps：关于更详细的站点收录，请点击参考此github项目[hamuleite](
 
 * doub
 
-![](https://i.postimg.cc/QdbQ863Q/doub-io-sxsx-131.png)
+![](../_offline/vendor/i.postimg.cc/QdbQ863Q/doub-io-sxsx-131.png)
 
 
-![](https://i.postimg.cc/KjBTdffg/doub-io-sxsx-132.png)
+![](../_offline/vendor/i.postimg.cc/KjBTdffg/doub-io-sxsx-132.png)
 
 * herokuapp
 
-![](https://i.postimg.cc/Nft2K1bp/2018-05-01-191319.png)
+![](../_offline/vendor/i.postimg.cc/Nft2K1bp/2018-05-01-191319.png)
 
 
 ## 获取梯子上网的方式

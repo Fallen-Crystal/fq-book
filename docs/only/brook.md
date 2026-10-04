@@ -6,17 +6,17 @@
 
 <!-- ![](https://ipfs.io/ipfs/QmVyHu3fJZNiWXaFL6FcNx2LXDh6rASN4uQVxrjkLc1Ems?4.png) -->
 
-![](https://i.postimg.cc/RZWHbB1G/2018-04-29-004340.png)
+![](../_offline/vendor/i.postimg.cc/RZWHbB1G/2018-04-29-004340.png)
 
 将解码的信息填入`setting`选项中，保存后，右键brook程序打开`toggle`选项即可
 
 <!-- ![](https://ipfs.io/ipfs/QmV54Pz3apqZFaiVcnq3K7L2fUXEdciR6XRANcMMr3qphw?4.png) -->
 
-![](https://i.postimg.cc/13V8rKPj/2018-04-29-004903.png)
+![](../_offline/vendor/i.postimg.cc/13V8rKPj/2018-04-29-004903.png)
 
 测试
 
 <!-- ![](https://ipfs.io/ipfs/QmVRpEBVCKUWUBZguT2TYnmxmV4asZtGG7ryHaGwuRCHdn?0.png) -->
 
-![](https://i.postimg.cc/cH06Zy3p/2018-04-29-005228.png)
+![](../_offline/vendor/i.postimg.cc/cH06Zy3p/2018-04-29-005228.png)
 

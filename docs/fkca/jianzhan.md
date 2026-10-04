@@ -122,7 +122,7 @@ docker compose up -d
 
 旧版 UI 截图：
 
-![旧版 Memos UI](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/uploads/2025/PixPin_2025-11-05_18-11-00.webp)
+![旧版 Memos UI](../_offline/vendor/cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/uploads/2025/PixPin_2025-11-05_18-11-00.webp)
 
 
 虽然有不少衍生项目，但个人兴趣不大：

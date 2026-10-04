@@ -53,29 +53,29 @@
 
 进入：https://www.apple.com 美版，下拉到最底，选择“[Gift Cards](https://www.apple.com/shop/gift-cards)” 点击[buy](https://www.apple.com/shop/buy-giftcard/giftcard)。
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-13_20-10-33.png)
+![](../_offline/vendor/cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-13_20-10-33.png)
 
 最低额度是充值10$
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-13_20-14-20.png) 
+![](../_offline/vendor/cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-13_20-14-20.png) 
 
 以我的为例，填好自己的姓名、邮箱，选择“no message”，点击"Add to Bag"，二次确认"check out"
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-13_20-16-03.png)
+![](../_offline/vendor/cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-13_20-16-03.png)
 
 
 用美国地址生成器 https://www.meiguodizhi.com 邮箱选择自己用的,电话选择地址生成器生成的，电话不会被验证，临时邮箱时间较短，最好也用自己的，方便自己接受邮件。
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-13_20-26-55.png)
+![](../_offline/vendor/cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-13_20-26-55.png)
 
 
 邮件接收
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-13_21-12-40.png)
+![](../_offline/vendor/cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-13_21-12-40.png)
 
 图片看起来没截到，连接VPN，登录AppStore，填兑换码，购买小火箭
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-14_00-32-26.png)
+![](../_offline/vendor/cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-14_00-32-26.png)
 
 ### 剩余时间随便边看边写点什么
 

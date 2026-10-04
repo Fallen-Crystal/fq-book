@@ -4,11 +4,11 @@
 
 配置及效果如图
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/uploads/2026/20260815191634.png)
+![](../_offline/vendor/cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/uploads/2026/20260815191634.png)
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/uploads/2026/20260815191640.png)
+![](../_offline/vendor/cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/uploads/2026/20260815191640.png)
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/uploads/2026/20260815191641.png)
+![](../_offline/vendor/cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/uploads/2026/20260815191641.png)
 
 
 > [!important]
