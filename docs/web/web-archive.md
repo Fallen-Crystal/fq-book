@@ -6,15 +6,15 @@
 
 进入 https://web.archive.org 输入想要永久备份的网址页面，再点击 `save this url in the wayback machine` 便可生成备份站点。
 
-![](https://i.postimg.cc/CMbyc8K2/Snipaste-2019-06-09-19-13-00.png)
+![](../_offline/vendor/i.postimg.cc/CMbyc8K2/Snipaste-2019-06-09-19-13-00.png)
 
 对于已经备份过的网页该网站是存有记录的，不过对于显示css、image并不理想，还是存在一定的局限性。
 
-![](https://i.postimg.cc/1X6P8R9K/Snipaste-2019-06-09-19-45-23.png)
+![](../_offline/vendor/i.postimg.cc/1X6P8R9K/Snipaste-2019-06-09-19-45-23.png)
 
 愿意离线保存的话，在Chrome设置中`更多工具 -> 网页另存为 -> 网页全部(*.htm;*.html)`或者`ctrl + p`打印PDF（建议使用[wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)针对网页打印PDF，相关参数官网有详细说明）；也可以保存成一个概览整图，在`f12`（开发者工具）中，`ctrl + shift + p`（控制台）输入：`screen` 如图示
 
-![](https://i.postimg.cc/fTR7x34y/Snipaste-2019-06-09-20-03-18.png)
+![](../_offline/vendor/i.postimg.cc/fTR7x34y/Snipaste-2019-06-09-20-03-18.png)
 
 btw，当网页无法打开或者失效不久，没有时光机的话，也可以通过快照临时查看，[灵感来自：coderschool](https://coderschool.cn/2348.html)。
 

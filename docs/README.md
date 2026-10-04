@@ -17,4 +17,4 @@ VPN、Proxy不时也会出现新应用，操作方式多数基本也大同小异
 
 ***[About Me（关于作者）](https://hoochanlon.github.io)***
 
-[![Star History Chart](https://api.star-history.com/chart?repos=hoochanlon/fq-book%2Choochanlon/hamuleite&type=timeline&legend=top-left)](https://www.star-history.com/?repos=hoochanlon%2Ffq-book%2Choochanlon%2Fhamuleite&type=timeline&logscale=&legend=top-left)
+[![Star History Chart](./_offline/vendor/api.star-history.com/chart__qb6861d93e125)](https://www.star-history.com/?repos=hoochanlon%2Ffq-book%2Choochanlon%2Fhamuleite&type=timeline&logscale=&legend=top-left)

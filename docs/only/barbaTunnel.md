@@ -6,5 +6,5 @@ BarbaTunnel是点对点非独立的隧道，应在运行BarbaTunnel后运行隧�
 
 > 图片来源：[BarbaTunnelCoder/BarbaTunnel](https://github.com/BarbaTunnelCoder/BarbaTunnel/#barbatunnel-diagram) 
 
-![](https://i.postimg.cc/vmmSKDqk/home-barbatunneldiagram.png)
+![](../_offline/vendor/i.postimg.cc/vmmSKDqk/home-barbatunneldiagram.png)
 

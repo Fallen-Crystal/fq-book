@@ -6,7 +6,7 @@
 
 明明已经开启了网络代理，并且将节点切换到了美国或英国等Gemini支持的地区，但在Chrome浏览器中访问Google Gemini时，依然弹出“Gemini is not available in your country”的提示，导致gemini无法使用？这种“明明翻了却像没翻”的问题，困扰了无数用户。其实，这往往是Chrome浏览器的某些底层协议“出卖”了你的真实位置。本文将围绕 QUIC 协议、WebRTC、IPv6、浏览器缓存、异常流量和 IP 质量几个方向，帮助你排查并**解决电脑翻墙后 Chrome 浏览器无法使用谷歌 Gemini 的问题**。
 
-![img](https://www.ipdodo.com/news/wp-content/uploads/2026/01/%E8%A7%A3%E5%86%B3%E7%94%B5%E8%84%91%E7%BF%BB%E5%A2%99%E5%90%8Echrome%E6%B5%8F%E8%A7%88%E5%99%A8%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E8%B0%B7%E6%AD%8Cgemini%E9%97%AE%E9%A2%98-1024x548.jpg)
+![img](../_offline/vendor/www.ipdodo.com/news/wp-content/uploads/2026/01/%25E8%25A7%25A3%25E5%2586%25B3%25E7%2594%25B5%25E8%2584%2591%25E7%25BF%25BB%25E5%25A2%2599%25E5%2590%258Echrome%25E6%25B5%258F%25E__2b897c7dd4bcdeaa.jpg)
 
 ### 一、 为什么电脑翻墙后chrome浏览器无法使用谷歌gemini？
 
@@ -33,7 +33,7 @@ QUIC（Quick UDP Internet Connections）是由Google开发的一种基于UDP的�
 1.**进入设置页面：**
 打开你的Chrome浏览器，在顶部的地址栏中输入 chrome://flags/ 并按下回车键（Enter）。这将带你进入Chrome的实验室设置页面。
 
-![img](https://www.ipdodo.com/news/wp-content/uploads/2026/01/%E6%AD%A5%E9%AA%A4%E4%B8%80.png)
+![img](../_offline/vendor/www.ipdodo.com/news/wp-content/uploads/2026/01/%25E6%25AD%25A5%25E9%25AA%25A4%25E4%25B8%2580.png)
 
  
 
@@ -43,14 +43,14 @@ QUIC（Quick UDP Internet Connections）是由Google开发的一种基于UDP的�
 3.**定位关键设置：**
 在搜索结果中，找到名为 **“**Experimental QUIC protocol**”** 的选项。
 
-![img](https://www.ipdodo.com/news/wp-content/uploads/2026/01/%E6%AD%A5%E9%AA%A4%E4%BA%8C.png)
+![img](../_offline/vendor/www.ipdodo.com/news/wp-content/uploads/2026/01/%25E6%25AD%25A5%25E9%25AA%25A4%25E4%25BA%258C.png)
 
  
 
 4.**修改状态：**
 点击该选项右侧的下拉菜单（默认通常是Default），将其修改为 **“**Disabled**”**（禁用）。
 
-![img](https://www.ipdodo.com/news/wp-content/uploads/2026/01/%E6%AD%A5%E9%AA%A4%E4%B8%89.png)
+![img](../_offline/vendor/www.ipdodo.com/news/wp-content/uploads/2026/01/%25E6%25AD%25A5%25E9%25AA%25A4%25E4%25B8%2589.png)
 
 5.**重启浏览器：**
 修改完成后，浏览器底部会弹出一个蓝色的 **“**Relaunch**”** 按钮。点击它，Chrome会自动重启。

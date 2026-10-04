@@ -9,24 +9,24 @@
 
 在搜索引擎上搜索如：“ss/ssr、v2ray节点分享”等相关关键词，总会找到被爬取到一些个人博客网站；当然，也可以在GitHub上输入这些关键词，如图所示。
 
-![](https://i.postimg.cc/fTjTxqCM/Snipaste-2019-06-08-14-25-52.png)
+![](../_offline/vendor/i.postimg.cc/fTjTxqCM/Snipaste-2019-06-08-14-25-52.png)
 
 进入 [youneed.win](https://www.youneed.win) 即可观察到这些重点信息，他的个人站点类似于 [free-ss.site](https://free-ss.site) 的国内镜像；因此，将此站点所示的ss节点信息填入 shadowsocks 即可；与之类似的还有：[nulastudio/Freedom](https://github.com/nulastudio/Freedom) 等等
 
-![](https://i.postimg.cc/MpMPCNLS/Snipaste-2019-06-08-14-28-28.png)
+![](../_offline/vendor/i.postimg.cc/MpMPCNLS/Snipaste-2019-06-08-14-28-28.png)
 
 不过也得注意的是：关注的人越来越多，自然会引起五毛以及内部的觉察，他们只要动些手脚比如人海举报、或是gfw等级封锁，自然又访问不成了。使用 watching 留意观察他提供ss节点访问更新就好了。btw，他这站点借助 [weirch (free-ss的站长)](https://github.com/free-ss) 的 free-ss.site 提供的节点，看来引流量不少；但不可否认，以此方式提供节点信息，确实帮助了不少人，这个是值得肯定的。
 
 
 和 weirch 聊到相关话题，我也把 [WebSiteOutlook](https://github.com/hoodiearon/WebSiteOutlook) 的issue功能关了，因为...如图...当然我也删去一些人发着玩的 issue 以及广告，由此还是将存储库的issue功能关闭算了...
 
-![](https://i.postimg.cc/4y6xdWy2/Snipaste-2019-06-08-14-56-44.png)
+![](../_offline/vendor/i.postimg.cc/4y6xdWy2/Snipaste-2019-06-08-14-56-44.png)
 
 ## YouTube 油管订阅
 
 搜索相关关键字查看相关视频，如果觉得up主多数视频有实际帮助的话，订阅他的频道，即可
 
-![](https://i.postimg.cc/YC43TXsG/Snipaste-2019-06-13-21-20-00.png)
+![](../_offline/vendor/i.postimg.cc/YC43TXsG/Snipaste-2019-06-13-21-20-00.png)
 
 顺便推荐几个技术分享站点，也顺带着安利一个网盘 [mega](https://mega.nz/)
 
